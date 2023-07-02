@@ -1,0 +1,174 @@
+
+/* Tampilan logo */
+.logo {
+  display: flex;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+.logo img {
+  width: 50px;
+  margin-right: 10px;
+}
+
+/* Tampilan tulisan di atas */
+.top-text {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 100px;
+}
+
+/* Tampilan form edit */
+#formedit {
+  background-color: aquamarine;
+}
+
+/* Tampilan form add */
+#formadd {
+  background-color: burlywood;
+}
+
+/* Tampilan tombol Add dan Edit */
+.btn {
+  background-color: #4caf50;
+  color: grey;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.btn-blue {
+  background-color: #2196f3;
+}
+
+/* Tampilan gambar */
+img {
+  width: 200px;
+}
+
+/* Tampilan judul */
+h1 {
+  font-size: 34px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* Tampilan container */
+.container {
+  margin-top: 40px;
+}
+
+/* Tampilan box */
+.box {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: #fff;
+}
+
+/* Tampilan nama */
+h5 {
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Tampilan alamat */
+p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+/* Tampilan tombol Edit dan Delete */
+.btn-blue {
+  background-color: #2196f3;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+/* Tampilan ikon tombol */
+.btn i {
+  margin-right: 5px;
+}
+/* Navbar container */
+.bg-gray-800 {
+  background-color: #1f2937;
+}
+
+/* Logo */
+.hidden {
+  display: none;
+}
+
+/* Navbar links */
+.inline-flex {
+  display: inline-flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.px-1 {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+}
+
+.pt-1 {
+  padding-top: 0.25rem;
+}
+
+.border-b-2 {
+  border-bottom-width: 2px;
+}
+
+.border-transparent {
+  border-color: transparent;
+}
+
+.text-sm {
+  font-size: 0.875rem;
+}
+
+.font-medium {
+  font-weight: 500;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.hover\:text-gray-300:hover {
+  color: #d1d5db;
+}
+
+.hover\:border-gray-300:hover {
+  border-color: #d1d5db;
+}
+
+/* Sign In button */
+.rounded-md {
+  border-radius: 0.375rem;
+}
+
+.bg-indigo-600 {
+  background-color: #4f46e5;
+}
+
+.hover\:bg-indigo-700:hover {
+  background-color: #6754e0;
+}
+
